@@ -1,0 +1,22 @@
+.main{
+    margin-top: 50px;
+    margin-left: 250px;
+    background-color: white;
+    width: 1100px;
+
+}
+.card {
+    margin-top: 10px;
+    margin-left: 200px;
+    padding-left: 10px;
+    padding-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 20px;
+    padding-bottom: 30px;
+    width: 1050px;
+    background-color:white ;
+}
+
+#sort-order{
+    border-radius: 5px ;
+}
